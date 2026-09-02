@@ -1,5 +1,5 @@
 - Areas of interest: llms, machine learning, gnns 
-- How to reach me: viniprodri@icloud.com, 10729470@mackenzista.com.br or www.linkedin.com/in/viniprodri
+- How to reach me: 10729470@mackenzista.com.br or www.linkedin.com/in/viniprodri
 
 <!---
 viniolt/viniolt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
